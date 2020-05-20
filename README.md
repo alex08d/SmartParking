@@ -33,4 +33,5 @@ The following condition is validated in the main while loop: the number of cars 
 - there are cars that last more than 5s, and the owner of the car is announced to leave the parking lot.
 - the cars leave the parking lot depending on the things mentioned above.
 This process is repeated until the queue empties.
-  Finally, while checking that the queue is empty, cars that exceed the preset time of 5 seconds and cars that have a parking time less than 5 seconds leave the parking lot.
+ 
+Finally, while checking that the queue is empty, cars that exceed the preset time of 5 seconds and cars that have a parking time less than 5 seconds leave the parking lot.
