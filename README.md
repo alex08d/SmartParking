@@ -1,7 +1,7 @@
 # SmartParking
 Smart Parking Simulator
 
-Within the project there are 5 classes, namely: Entry Barrier, Exit Barrier, Parking, Car and Main.
+Within the project there are 5 classes, namely: Entry Barrier, Exit Barrier, Parking and Main.
 
 Within the classes we have constructors, setters and getters for each parameter and method.
 
